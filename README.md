@@ -38,9 +38,6 @@
 {
     "languages" : ["JavaScript","C++"],
     "others" : ["NPM","Git"]
-},
-{
-    "tools": ["Adobe Photoshop","AdobeXD", "Adobe Illustrator"]
 }
 
 ```
