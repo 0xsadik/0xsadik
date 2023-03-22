@@ -1,14 +1,13 @@
 
-<h3 align="center">
-Assalamu alaikum ! 👋
-</h3>
+
 
 <samp>
-    <p align="center">I am Torikus Sadik. I am currently a student. who is interested in programming. I love silence, book, gadgets, a cup of coffee, and also I love to learn something new. btw, welcome to my profile. :D</p>
     <p align="center">
-    <a href="https://twitter.com/torikus__"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/torikus__?color=2d90cc&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-    <a href="https://github.com/0xsadik"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/0xsadik?color=001935&style=for-the-badge&logo=github&label=Follow"/></a>
-    </p>
+   <h1 align="center"><b>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Torikus here! </h1>
+   <!-- <p align="center">
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=a+Student,+Passionate Developer.;Hungry+Learner;"></a>
+   </p> -->
+</p>
 </samp>
 </p>
 </p>
@@ -27,18 +26,18 @@ Assalamu alaikum ! 👋
 
 - 🔭 **Currently working on:** *Nothing*.
 - 📖 __Currently learning:__ Modern JavaScript.
-- 🤔 __Exploring:__ Javascript
-- 🥅 __Goal:__ being a Js Developer 💙 
-- ❓ __Ask me about:__ HTML, CSS, JavaScript, python and React js 😊 
-- ⚡ __Fun fact:__ I love to travel and music. 😎 
+- 🤔 __Exploring:__ Front-end
+- 🥅 __Goal:__ Software Engineer 💙 
+- ❓ __Ask me about:__ mah mental condition 😊 
+- ⚡ __Fun fact:__ Love to travel but have no time. 😎 
 
 
 ### Languages and Tools:🥱
 
 ```json
 {
-    "languages" : ["JavaScript","Python"],
-    "others" : ["NPM","Yarn","Git"]
+    "languages" : ["JavaScript","C++"],
+    "others" : ["NPM","Git"]
 },
 {
     "tools": ["Adobe Photoshop","AdobeXD", "Adobe Illustrator"]
