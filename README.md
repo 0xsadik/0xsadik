@@ -36,7 +36,7 @@
 
 ```json
 {
-    "languages" : ["JavaScript","C++"],
+    "languages" : ["JavaScript","C++", "python"],
     "others" : ["NPM","Git"]
 }
 
