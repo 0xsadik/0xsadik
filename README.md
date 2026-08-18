@@ -24,9 +24,9 @@
 
 <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 **Currently working on:** *Nothing*.
-- 📖 __Currently learning:__ Modern JavaScript.
-- 🤔 __Exploring:__ Front-end
+- 🔭 **Currently working on:** * back-end *.
+- 📖 __Currently learning:__ full stack development.
+- 🤔 __Exploring:__ Backend
 - 🥅 __Goal:__ Software Engineer 💙 
 - ❓ __Ask me about:__ mah mental condition 😊 
 - ⚡ __Fun fact:__ Love to travel but have no time. 😎 
@@ -37,13 +37,15 @@
 ```json
 {
     "languages" : ["JavaScript","C++", "python"],
-    "others" : ["NPM","Git"]
+    "others" : ["NPM","Git"],
+    "front-end" : ["React"],
+    "backend" : ["NodeJS", "Express js"],
+    "database" : ["PostgreSQL"],
 }
 
 ```
 <br/>
     
-<!-- // "backend" : ["NodeJS", "Express js"], -->
 <!-- // "database" : ["MySQL","MongoDB"], -->
 <!-- "frontend" : ["React"], -->
 
@@ -61,9 +63,9 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][Instagram]
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![image](https://img.shields.io/badge/Tumblr-001935?style=for-the-badge&logo=Tumblr&logoColor=white)][tumblr]
-[![image](https://img.shields.io/badge/Facebook-036ce4?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
+<!-- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter] -->
+<!-- [![image](https://img.shields.io/badge/Tumblr-001935?style=for-the-badge&logo=Tumblr&logoColor=white)][tumblr] -->
+<!-- [![image](https://img.shields.io/badge/Facebook-036ce4?style=for-the-badge&logo=Facebook&logoColor=white)][facebook] -->
 
 
 <br/>
@@ -73,24 +75,24 @@
 <!-- <a href="https://github.com/0xsadik">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsadik&theme=tokyonight" />
   </a> -->
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsadik&theme=react&layout=compact" />
+  <!-- <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsadik&theme=react&layout=compact" /> -->
 
 <br/>
 <!-- <img align="left" alt="Torikus's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=0xsadik&show_icons=true&theme=radical&count_private=true hide_border=ture" /> -->
 
-![orikus's Github Stats](https://github-readme-stats.vercel.app/api?username=0xsadik&show_icons=true&include_all_commits=true)
+<!-- ![orikus's Github Stats](https://github-readme-stats.vercel.app/api?username=0xsadik&show_icons=true&include_all_commits=true) -->
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=0xsadik&theme=react-dark&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=0xsadik&theme=react-dark&hide_border=true&area=true) -->
 
 
 <br/>
 
-<samp>
+<!-- <samp>
     <p align="center"> 
         Visitor count : <br>
         <img src="https://profile-counter.glitch.me/0xsadik/count.svg" />
     </p>
-</samp>
+</samp> -->
 
 
 <!-- social links here -->
