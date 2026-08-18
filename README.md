@@ -17,8 +17,8 @@
 <br/>
 
 
-> Undergradute student @ v77! 👨‍🎓 <br/>
-> MERN Stack Developer 🤗 <br/>
+> Undergradute student @ SEU 👨‍🎓 <br/>
+> Developer 🤗 <br/>
 > Security enthusiast, Deep learning enthusiast 🤫
 <br/>
 
